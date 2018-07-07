@@ -15,4 +15,4 @@ As for orbital rotation, this one I wouldn't call it a perfect implementation bu
 
 This project is for all the poor souls who're looking for advanced control solution. Take it as an inspiration.
 
-Brought to you with ❤ by [UnityList](https:/UnityList.com)
+Brought to you with ❤ by [UnityList](https://UnityList.com)
