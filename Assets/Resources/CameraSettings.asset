@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc0d692e47faab4da25a80a05e351f7, type: 3}
+  m_Name: CameraSettings
+  m_EditorClassIdentifier: 
+  minZoom: 5
+  maxZoom: 1200
+  zoomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.001
+      inSlope: 0.3530888
+      outSlope: 0.3530888
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.12085308
+    - serializedVersion: 3
+      time: 1
+      value: 0.5
+      inSlope: 0.948389
+      outSlope: 0.948389
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.036729872
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tweenTime: 0.2
+  tweenCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 3.0277288
+      outSlope: 3.0277288
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.021327015
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  manualZoomSteps: 1
+  directionalMovementSpeed: 3
+  rotateHorizontalSpeed: 0.2
+  rotateVerticalSpeed: 0.2
+  RadiusBound: 500
