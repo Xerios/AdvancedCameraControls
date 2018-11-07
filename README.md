@@ -1,4 +1,4 @@
-# AdvancedCamera
+# Advanced Camera Controls
 Advanced RTS-like camera features such as zoom-to-point using RxNET
 
 # Features
